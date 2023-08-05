@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Angel</h1>
+<h1 align="center">Hi , I'm Celestial</h1>
 <h3 align="center">I am a beginner developer and look forward to working on major cyber security projects</h3>
 
 - 🌱 I’m currently learning: **C, C#, C+=**
