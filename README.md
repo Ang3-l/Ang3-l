@@ -1,14 +1,17 @@
-<h1 align="center">Hi , I'm Celestial</h1>
+<h1 align="center">Hi, I'm Celestial</h1>
 <h3 align="center">I am a beginner developer and look forward to working on major cyber security projects</h3>
 
-- 🌱 I’m currently learning: **C, C#, C+=**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=callmecelestial&label=Profile%20views&color=0e75b6&style=flat" alt="callmecelestial" /> </p>
 
-- 🤝 I’m looking for help with: **Everything, willing to learn from anyone**
+- 🌱 I’m currently learning **C, C#, C+=**
 
-- 💬 Ask me about: **Commissions**
+- 🤝 I’m looking for help with **Everything, willing to learn from anyone**
+
+- 💬 Ask me about **Commissions**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://twitter.com/callcelestial" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="callcelestial" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
