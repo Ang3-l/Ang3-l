@@ -9,7 +9,7 @@
 
 - 💬 Ask me about: **Commissions**
 
-- 📫 You can contact me on discord at: **IAmCelestial**
+- 📫 You can contact me on discord at: **IAmCelestial or CelestialBackup**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
