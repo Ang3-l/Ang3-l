@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Celestial</h1>
-<h3 align="center">I am a beginner developer and look forward to working on major cyber security projects</h3>
+<h3 align="center">I'm a developer and look forward to working on major cyber security projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmecelestial&label=Profile%20views&color=0e75b6&style=flat" alt="callmecelestial" /> </p>
 
