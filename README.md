@@ -5,6 +5,8 @@
 
 - 🌱 I’m currently learning: **C, C#, C+=**
 
+- 🛠️ I’m currently working on: **Discord.gg/sakurafx**
+
 - 🤝 I’m looking for help with: **Everything, willing to learn from anyone**
 
 - 💬 Ask me about: **Commissions**
