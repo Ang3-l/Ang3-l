@@ -3,11 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmecelestial&label=Profile%20views&color=0e75b6&style=flat" alt="callmecelestial" /> </p>
 
-- 🌱 I’m currently learning **C, C#, C+=**
+- 🌱 I’m currently learning: **C, C#, C+=**
 
-- 🤝 I’m looking for help with **Everything, willing to learn from anyone**
+- 🤝 I’m looking for help with: **Everything, willing to learn from anyone**
 
-- 💬 Ask me about **Commissions**
+- 💬 Ask me about: **Commissions**
+
+- 📫 You can contact me on discord at: **CallMeCelestial**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
