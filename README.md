@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Celestial</h1>
-<h3 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=D538F7BB&width=435&lines=I'm+a+developer+and+look+forward+to+working+on+major+cyber+security+projects)](https://git.io/typing-svg)
+<h3 align="center"><h3 align="center">I'm a developer and look forward to working on major cyber security projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=callmecelestial&label=Profile%20views&color=0e75b6&style=flat" alt="callmecelestial" /> </p>
 
