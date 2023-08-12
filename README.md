@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning: **C, C#, C+=**
 
-- 🛠️ I’m currently working on: **[Discord.gg/sakurafx](https://discord.com/invite/sakurafx)**
+- 🛠️ I’m currently working on: **UpperclassEU.net**
 
 - 🤝 I’m looking for help with: **Everything, willing to learn from anyone**
 
